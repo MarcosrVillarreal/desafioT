@@ -1,6 +1,5 @@
 # Desafio
 
-*Integer to signed/unsigned binary converter.*
 ## Install
 
 **npm**:  
