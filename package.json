@@ -1,0 +1,23 @@
+{
+  "name": "desafiotesacom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fry/bits": "^1.0.2",
+    "basenumber": "^1.0.0",
+    "bitstring": "^1.0.0",
+    "bitview": "^0.1.5",
+    "bn-str-256": "^1.9.1",
+    "decimal-to-binary": "^1.0.3",
+    "double-conversion-decimal-binary": "^1.1.0",
+    "int-to-binary": "^1.0.2",
+    "read-bits": "^0.1.0"
+  }
+}
